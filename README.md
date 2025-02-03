@@ -1,4 +1,4 @@
-#Sentido da vida? 42.
+Sentido da vida? 42.
 
 ---
 
@@ -22,5 +22,3 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
- 
