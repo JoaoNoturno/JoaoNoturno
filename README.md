@@ -1,5 +1,3 @@
-# João Marcos.  
-
 #Sentido da vida? 42.
 
 ---
