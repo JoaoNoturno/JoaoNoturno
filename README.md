@@ -11,8 +11,8 @@ Sentido da vida? 42.
 
 ## 📊 **Minhas Estatísticas**
 <div>
-  <img width="42%" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoNoturno&show_icons=true&theme=dracula)">
-<img width="50%" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNoturno&layout=compact&theme=dracula)">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=JoaoNoturno&show_icons=true&theme=dracula">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNoturno&layout=compact&theme=dracula">
 </div>
    
 
