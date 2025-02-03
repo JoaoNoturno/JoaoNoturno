@@ -1,22 +1,17 @@
 Sentido da vida? 42.
-
 ---
-
-📫 **Entre em contato comigo:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/jo%C3%A3o-marcos-de-paula-guedes/))  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoNoturno)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojmpg@gmail.com)  
-
----
-
 ## 📊 **Minhas Estatísticas**
-<div>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNoturno&layout=compact&theme=dracula">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JoaoNoturno&show_icons=true&theme=dracula">
+<div style="display: inline_block"><br>
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNoturno&layout=compact&theme=dracula">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=JoaoNoturno&show_icons=true&theme=dracula">
 </div>
    
-
-
+📫 **Entre em contato comigo:**  
+<div style="display: inline_block"><br>
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/jo%C3%A3o-marcos-de-paula-guedes/))  
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoNoturno)  
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojmpg@gmail.com)  
+</div>
 ---
 
 ## 🛠 **Tecnologias e Ferramentas**
