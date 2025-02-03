@@ -1,12 +1,12 @@
 Sentido da vida?
-42
+<p> 42</p>
 ---
 ## 📊 **Minhas Estatísticas**
 <div style="display: inline_block"><br>
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNoturno&layout=compact&theme=dracula">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=JoaoNoturno&show_icons=true&theme=dracula">
 </div>
-   
+---   
 📫 **Entre em contato comigo:**  
 <div style="display: inline_block"><br>
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/jo%C3%A3o-marcos-de-paula-guedes/))  
