@@ -1,3 +1,4 @@
+
 Sentido da vida?
 <p> 42</p>
 ---
@@ -6,6 +7,7 @@ Sentido da vida?
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNoturno&layout=compact&theme=dracula">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=JoaoNoturno&show_icons=true&theme=dracula">
 </div>
+
 ---   
 📫 **Entre em contato comigo:**  
 <div style="display: inline_block"><br>
