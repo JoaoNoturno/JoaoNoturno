@@ -10,7 +10,7 @@
 ---
 
 ## 📊 **Minhas Estatísticas**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoNoturnoo&show_icons=true&theme=dracula)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoNoturno&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoNoturno&layout=compact&theme=dracula)  
 
 ---
