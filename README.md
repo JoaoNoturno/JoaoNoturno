@@ -1,5 +1,9 @@
 # 🌌 **Sentido da Vida?**
-> 42
+<div align="center">
+  
+  42
+  
+  </div>
 
 ---
 
